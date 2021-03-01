@@ -60,7 +60,7 @@ nav {
     grid-template-columns: 1fr 1fr;
 }
 nav .nav-logo-container {
-    margin-left: 50px;
+    /* margin-left: 50px; */
 
 }
 nav .nav-logo-container img {
@@ -82,7 +82,7 @@ nav .profile-link a {
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     height: 100%;
-    background-image: url('../assets/img/cover.PNG');
+    background-image: url('../assets/img/code-main.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -92,7 +92,7 @@ nav .profile-link a {
     grid-column: 2;
     justify-items: center;
     height: 350px;
-    margin-top: 80px;
+    margin-top: 30px;
 }
 .home-main-text {
     font-family: 'Roboto Mono', monospace;
@@ -108,6 +108,8 @@ nav .profile-link a {
     background:#47cfac;
     display: grid;
     align-items: center;
+    border-radius: 10px;
+    margin-top: 40px;
 }
 .home-main-button a {
     font-weight: 700;
