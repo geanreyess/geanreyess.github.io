@@ -1,3 +1,201 @@
+/* ---------index.html----------- */
+@media (min-width: 768px) {
+
+}
+@media (min-width: 1024px) {
+
+}
+@media (min-width: 1200px) {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (min-width: 320px) {
+    .home-body {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+    }
+}
+
+@media (min-width: 640px) {
+    .home-body {
+        position: inherit;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 900px) {
     .blogs-main-new {
         grid-template-columns: 1fr;
@@ -31,8 +229,9 @@
 
 
 }
+
 @media (max-width: 600px) {
     .blogs-posts-container .post-container {
         max-width: 95%;
     }
-}
+} */
