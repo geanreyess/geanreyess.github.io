@@ -1,6 +1,13 @@
 /* ---------index.html----------- */
 @media (min-width: 768px) {
-
+    .home-main .home-main-text {
+        font-size: 3.6rem;
+        margin-top: 20px;
+       
+    }
+    .home-main .home-main-button {
+        margin-top: 0;
+    }
 }
 @media (min-width: 1024px) {
 
