@@ -1,4 +1,15 @@
-
+@media (min-width: 610px) {
+    /* ---------perfil.html----------- */
+    .contact-main-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .contact-main-container .info {
+        width: 50%;
+    }
+}
 @media (min-width: 768px) {
     /* ---------index.html----------- */
     .home-main .home-main-text {
@@ -9,6 +20,32 @@
     .home-main .home-main-button {
         margin-top: 0;
     }
+
+    /* ---------perfil.html----------- */
+    .profile-main-container .profile-container {
+        display: flex;
+        flex-direction: row;
+        
+    }
+    .profile-container div {
+        padding: 10px 20px;
+    }
+    .profile-main-container .profile-container h2 {
+        margin-bottom: 20px;
+    }
+    .proyects-main-container {
+        flex-direction: row;
+        justify-content: center;
+        flex-flow: wrap;
+    }
+    .proyects-container {
+        width: 50%;
+        margin: 10px 10px;
+    }
+    
+
+
+
 }
 @media (min-width: 1024px) {
 
