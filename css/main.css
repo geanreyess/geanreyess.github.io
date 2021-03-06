@@ -121,6 +121,8 @@ nav .profile-link a {
     display:grid;
 }
 .blogs-news-container {
+    max-width: 600px;
+    margin: 0 auto;
     background-image: url('../assets/img/main-news-img.jpg');
     background-position: center;
     background-size: cover;
@@ -128,6 +130,7 @@ nav .profile-link a {
     padding: 0 40px 30px;
     margin-bottom: 15px;
     color: white;
+    border-radius: 0 0 8px 8px;
     
 }
 .blogs-main-new {
@@ -171,6 +174,7 @@ nav .profile-link a {
 }
 .blogs-news-info-container .blogs-button {
     border: 2px solid #47cfac;
+
     padding: 10px 15px;
     font-size: 1.5rem;
     color: white;
@@ -178,16 +182,21 @@ nav .profile-link a {
 }
 .blogs-button {
     border: 2px solid #47cfac;
+    border-radius: 8px;
     padding: 10px 15px;
     font-size: 1.2rem;
     font-weight: 700;
+    background-color: #36977f;
 }
 
 .blogs-posts-container .post-container {
     display: inline-block;
     padding: 0 10px;
     width: 100%;
-    margin-bottom: 10%;
+    max-width: 320px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    
 }
 .blogs-posts-container .post-container p {
     margin-bottom: 35px;
